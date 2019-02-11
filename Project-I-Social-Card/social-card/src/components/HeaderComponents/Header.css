@@ -2,13 +2,11 @@
 
 .HeaderContainer {
     display: flex;
-    border: 1px solid red;
+    
     width: 590px;
 }
 
-.flex-section {
-    border: 1px solid red;
-}
+
 
 img {
     margin: 10px;

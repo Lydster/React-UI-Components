@@ -1,1 +1,16 @@
 /* All styles for your Card Components live here */
+.reactlogo {
+    width: 520px;
+    margin-left: 70px;
+    border-radius: 5px;
+}
+
+.card-content {
+    width: 520px;
+    margin-left: 70px;
+}
+
+a {
+    text-decoration: none;
+    color: lightgray;
+}
