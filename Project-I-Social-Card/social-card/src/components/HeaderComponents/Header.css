@@ -1,1 +1,34 @@
 /* All styles for your header Components live here */
+
+.HeaderContainer {
+    display: flex;
+    border: 1px solid red;
+    width: 590px;
+}
+
+.flex-section {
+    border: 1px solid red;
+}
+
+img {
+    margin: 10px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+p {
+    font-size: 1.6em;
+}
+
+h1 {
+    font-size: 1.7em;
+    color: lightgrey;
+}
+
+span {
+    color: black;
+}
