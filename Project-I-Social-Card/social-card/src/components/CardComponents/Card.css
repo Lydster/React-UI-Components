@@ -1,16 +1,29 @@
 /* All styles for your Card Components live here */
-.reactlogo {
-    width: 520px;
+.card-container {
+    border: 1px solid lightgray;
+    width: 500px;
     margin-left: 70px;
     border-radius: 5px;
 }
 
+.reactlogo {
+    width: 100%;
+    border-radius: 0px;
+    
+}
+
 .card-content {
-    width: 520px;
-    margin-left: 70px;
+   width: 90%;
+   padding: 20px;
+   color: black;
 }
 
 a {
     text-decoration: none;
     color: lightgray;
+    cursor: pointer;
+}
+
+.allContentBottom {
+    color: black;
 }

@@ -1,8 +1,15 @@
 import React from 'react';
 import './Header.css';
 
+
+
 function HeaderTitle() {
-    return <h1><span>Lambda School </span>@LambdaSchool  26 jan</h1>;
+    return (
+    <div>
+    <h1><span>Lambda School </span>@LambdaSchool</h1>
+    </div>
+    )
+    
   }
 
 export default HeaderTitle;
