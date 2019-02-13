@@ -1,0 +1,37 @@
+body {
+    width: 456px;
+    height: 598px;
+    border: 1px solid gray;
+    font-size: 62.5%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.appButtonClass {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 3em;
+}
+
+
+.grow3 {
+    width: 74.4%;
+    border: 1px solid #222222;
+    height: 95.68px;
+}
+
+.grow4 {
+    width: 74.4%;
+    border: 1px solid #222222;
+    height: 95.68px;
+}
+
+.nogrow {
+    width: 24.5%;
+    border: 1px solid #222222;
+    height: 95.68px;
+}
+
+.action {
+    background-color: #931C24;
+}
